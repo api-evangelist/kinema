@@ -1,0 +1,29 @@
+# Kinema
+
+> Kinema is a social cinema platform and film distribution service that empowers independent filmmakers to release, control, and get paid for their films, while giving hosts the tools to screen movies for their communities, both in person and online.
+
+Kinema helps independent stories thrive. Filmmakers control their release and get paid for it. Hosts and community builders turn any space into a movie house and bring people together around a film. Audiences discover films and attend screenings, virtual or in person.
+
+## Main pages
+
+- [Home](https://kinema.com/): A social cinema platform for filmmakers and community builders. Discover great films in creative spaces.
+- [About](https://kinema.com/about): Kinema's mission and story. A new kind of film distribution platform that empowers filmmakers to share their stories and gives audiences everywhere the chance to watch and connect.
+- [Discover](https://kinema.com/discover): Browse and discover films available on Kinema.
+- [Find a Screening](https://kinema.com/events): Find upcoming film screenings and events to attend, virtual or in person.
+- [Watch Now](https://kinema.com/watch-now): Rent films to watch on demand at home.
+- [FAQ](https://kinema.com/faq): Frequently asked questions about using Kinema.
+
+## For filmmakers
+
+- [For Filmmakers](https://kinema.com/filmmakers): Distribute your film on Kinema, control your release, and get paid for it.
+
+## For hosts
+
+- [For Hosts](https://kinema.com/hosts): Turn any space into a movie house with powerful screening software. Host screenings for your community, in person or online.
+
+## Optional
+
+- [Support](https://support.kinema.com/): Help center and additional support.
+- [Terms of Service](https://kinema.com/legal/terms)
+- [Privacy Policy](https://kinema.com/legal/privacy)
+- [Community Guidelines](https://kinema.com/legal/guidelines)
