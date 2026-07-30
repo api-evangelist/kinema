@@ -1,8 +1,26 @@
 aid: kinema
 name: Kinema
-description: Kinema is a company surfaced as a portfolio company of kindred-ventures and added to the
-  API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: Kinema is a social cinema platform and independent film distribution service.
+  It empowers independent filmmakers to release, control, and get paid for their films
+  through global distribution, partner-driven and live screenings, and direct-to-audience
+  streaming, with ownership retention, transparent weekly payouts, and real-time earnings
+  dashboards. Hosts and community builders get screening software and event tools to
+  turn any space into a movie house, in person or online, while audiences discover
+  independent films and attend virtual or in-person screenings, directly supporting
+  filmmakers through ticket and rental purchases.
 url: https://raw.githubusercontent.com/api-evangelist/kinema/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://storyspaces-util.imgix.net/kinema-og.png?w=1280&auto=format
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -11,9 +29,16 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
 tags:
 - Company
+- Film Distribution
+- Streaming
+- Cinema
+- Events
+- Entertainment
+- Media
+- Independent Film
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,3 +48,24 @@ maintainers:
 common:
 - type: Website
   url: https://kinema.com/
+- type: About
+  url: https://kinema.com/about
+- type: Support
+  url: https://support.kinema.com/
+- type: SignUp
+  url: https://kinema.com/signup
+- type: Login
+  url: https://kinema.com/login
+- type: TermsOfService
+  url: https://kinema.com/legal/terms
+- type: PrivacyPolicy
+  url: https://kinema.com/legal/privacy
+- type: LLMsTxt
+  url: llms/kinema-llms.txt
+- type: DomainSecurity
+  url: security/kinema-domain-security.yml
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
